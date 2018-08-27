@@ -1,0 +1,6 @@
+K:\Dev\CSharpSandBox\SOLID2\bin\Debug\SOLID2.exe
+K:\Dev\CSharpSandBox\SOLID2\bin\Debug\SOLID2.pdb
+K:\Dev\CSharpSandBox\SOLID2\obj\Debug\SOLID2.csprojResolveAssemblyReference.cache
+K:\Dev\CSharpSandBox\SOLID2\obj\Debug\SOLID2.csproj.CoreCompileInputs.cache
+K:\Dev\CSharpSandBox\SOLID2\obj\Debug\SOLID2.exe
+K:\Dev\CSharpSandBox\SOLID2\obj\Debug\SOLID2.pdb

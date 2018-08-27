@@ -1,0 +1,6 @@
+K:\Dev\CSharpSandBox\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+K:\Dev\CSharpSandBox\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+K:\Dev\CSharpSandBox\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+K:\Dev\CSharpSandBox\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+K:\Dev\CSharpSandBox\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+K:\Dev\CSharpSandBox\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
